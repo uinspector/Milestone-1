@@ -1,0 +1,10 @@
+---
+title: "Milestone 1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+My current thinking for my final project revolves around three different data sets: 1) University of Illinois’ Cline Center for Advanced Social Research "Coup D’état Project", a dataset detailing more than 900 global coups, attempted coups, and coup conspiracies from 1945 to 2019. 2) "The World Inequality Database" and 3) Transparency.org's "Corruption Perception Index". Through this I hope to explore the correlation between inequality, corruption and the likelihood of a Coup D’état as well as the likelihood of the Coup's success. Are more unequal and corrupt countries more susceptible to military coups? Are these coups likely to be more succesful in countries where corruption and inequality is rife? I hope to focus on the Middle East and North Africa region, or perhaps compare this region to others, such as South America. 
